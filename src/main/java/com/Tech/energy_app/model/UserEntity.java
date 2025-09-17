@@ -80,6 +80,7 @@ public class UserEntity {
     public void setEmail(String email) {
         this.email = email;
     }
+}
 =======
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
