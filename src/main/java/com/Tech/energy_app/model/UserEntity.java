@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
@@ -81,7 +81,7 @@ public class UserEntity {
         this.email = email;
     }
 }
-=======
+
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
@@ -163,5 +163,5 @@ public class UserEntity {
     public void setEmail(String email) {
         this.email = email;
     }
->>>>>>> 2826ef1 (Actualización: config BD y controladores)
+
 }
